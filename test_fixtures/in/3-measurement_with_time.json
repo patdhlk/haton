@@ -1,8 +1,7 @@
-
 {
-	"measurement":"cpu",
-	"host":"pi3",
-	"region":"europe",
-	"value":11,
-	"timestamp":1434055562000000000
+    "measurement": "setpoint",
+    "host": "mfc_1",
+    "region": "europe",
+    "value": 11.5,
+    "timestamp": 7290431990000000000
 }
